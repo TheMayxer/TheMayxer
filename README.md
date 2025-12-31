@@ -4,6 +4,19 @@
 
 <img src="https://imgur.com/CtWhQzl.png" alt="Descrição" width="700"/>
 
+
+# Pessoas que eu me inspiro:
+
+- JDaniel Aleatório
+  - https://github.com/JDanielRandomizer
+  - www.youtube.com/@JDanielAleatorio
+- GuineaPigUuhh
+  - https://github.com/guineapiguuhh
+  - https://www.youtube.com/@guineapiguuhh7841
+- TheZoroForce240
+  - https://github.com/TheZoroForce240
+  - https://www.youtube.com/@TheZoroForce240
+
 # Um pouco sobre mim:
 
 Recentemente eu to fazendo Charts de Fnf (pouco tempo atras de Clone Hero), desenho praticamente todo dia e comecei a programar jogos no haxeflixel.
@@ -20,11 +33,6 @@ Eu espero que futuramente eu melhore cada vez mais e consiga fazer jogos ainda m
 
 [![coisas](https://skillicons.dev/icons?i=haxe,haxeflixel,vscode,&theme=dark)](https://skillicons.dev)
 
-# Pessoas que eu me inspiro:
-
-JDaniel Aleatório - https://github.com/JDanielRandomizer
-GuineaPigUuhh - https://github.com/guineapiguuhh
-TheZoroForce240 - https://github.com/TheZoroForce240
 
 
 
