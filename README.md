@@ -19,15 +19,11 @@
 
 # Um pouco sobre mim 😶‍🌫️:
 
-Recentemente eu to fazendo charts de FNF (pouco tempo atrás de Clone Hero), desenho praticamente todo dia e comecei a programar jogos no haxeflixel.
+Faço charts de FNF, desenho praticamente todo dia e programo jogos com HaxeFlixel
 
-Uns anos atras (2 ou 3 anos), eu tentei programar em html e css, porém eu não via mais sentido em programar nessas linguagens por que nao era algo que eu me sentia interassado em usar.
+É isso aí
 
-Depois disso, eu tentei programar em python, o que denovo não era algo que realmente me interessava.
-
-Quando eu conheci o Haxeflixel, eu nunca mais deixei de usar, e hoje em dia virou minha linguagem de programação favorita e que não consigo deixar de lado :)
-
-Eu espero que futuramente eu melhore cada vez mais e consiga fazer jogos ainda maiores.
+<img src="https://imgur.com/BbXtAL8.png" alt="siu" width="500" height="200">
 
 # Programas/ferramentas que eu uso atualmente 🖥️:
 
